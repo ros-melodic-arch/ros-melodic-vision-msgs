@@ -1,7 +1,7 @@
 # Script generated with import_catkin_packages.py
 # For more information: https://github.com/bchretien/arch-ros-stacks
 pkgdesc="ROS - Messages for interfacing with various computer vision pipelines, such as object detectors."
-url='http://www.ros.org/'
+url='https://wiki.ros.org/vision_msgs'
 
 pkgname='ros-melodic-vision-msgs'
 pkgver='0.0.1'
