@@ -1,5 +1,5 @@
 pkgdesc="ROS - Messages for interfacing with various computer vision pipelines, such as object detectors."
-url='http://www.ros.org/'
+url='https://wiki.ros.org/vision_msgs'
 
 pkgname='ros-melodic-vision-msgs'
 pkgver='1.0.0'
